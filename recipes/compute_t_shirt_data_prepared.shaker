@@ -86,7 +86,7 @@
         "lang": "fr_FR",
         "outType": {
           "name": "out",
-          "type": "date"
+          "type": "datetimenotz"
         }
       },
       "alwaysShowComment": false
