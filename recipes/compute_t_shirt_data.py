@@ -7,7 +7,7 @@ from io import BytesIO
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
 # Read recipe inputs
-Input_Datasets = dataiku.Folder("MOVzMGpu")
+Input_Datasets = dataiku.Folder("JP4GrRc6")
 Input_Datasets_info = Input_Datasets.get_info()
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
